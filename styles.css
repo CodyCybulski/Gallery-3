@@ -211,25 +211,25 @@ html {
 }
 
 #sectionThree div:nth-child(1) {
-    background-image: url("img/chickenPic.png");
+    background-image: url("img/dog1.jpg");
     background-position: top;
     background-size: cover;
 }
 
 #sectionThree div:nth-child(2) {
-    background-image: url("img/breadPic.png");
+    background-image: url("img/dog2.jpg");
     background-position: top;
     background-size: cover;
 }
 
 #sectionThree div:nth-child(3) {
-    background-image: url("img/cookiePic.png");
+    background-image: url("img/dog3.jpg");
     background-position: top;
     background-size: cover;
 }
 
 #sectionThree div:nth-child(4) {
-    background-image: url("img/coffeePic.png");
+    background-image: url("img/dog4.jpg");
     background-position: top;
     background-size: cover;
 }
